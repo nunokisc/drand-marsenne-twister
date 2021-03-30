@@ -1,0 +1,27 @@
+{
+  "name": "drand-mersenne-twister",
+  "version": "1.0.0",
+  "description": "Mersenne Twister with drand seed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunokisc/drand-mersenne-twister.git"
+  },
+  "keywords": [
+    "drand mersenne twister",
+    "drand",
+    "mersenne",
+    "twister",
+    "random",
+    "mersenne twister w/ drand seed"
+  ],
+  "author": "Nuno Cardoso <nunokisc@github>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nunokisc/drand-mersenne-twister/issues"
+  },
+  "homepage": "https://github.com/nunokisc/drand-mersenne-twister#readme"
+}
